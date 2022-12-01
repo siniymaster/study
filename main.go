@@ -1,9 +1,7 @@
 package main
 
-import (
-	"battlefield/???"
-)
+import "battlefield/hello"
 
 func main() {
-	пацкаге.Функ()
+	hello.Hello()
 }
