@@ -1,7 +1,7 @@
 package main
 
-import myname "battlefield/hello"
+import "battlefield/stydugo"
 
 func main() {
-	myname.Name()
+	stydugo.Bolid()
 }
