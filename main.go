@@ -1,7 +1,7 @@
 package main
 
-import "battlefield/hello"
+import myname "battlefield/hello"
 
 func main() {
-	hello.Hello()
+	myname.Name()
 }
